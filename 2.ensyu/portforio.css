@@ -1,0 +1,21 @@
+  #art{
+    background-color: #333;
+    font-family: Hiragino Sans;
+  }
+
+  table{
+    font-size: 1.2rem;
+    width: 60%;
+  }
+
+  tr{
+    color:#f0f0f0;
+  }
+
+  th{
+    padding: 10px;
+  }
+
+  td{
+    padding: 10px;
+  }

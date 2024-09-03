@@ -1,0 +1,12 @@
+table {
+  border-collapse: green;
+  font-size: 1.2rem;
+}
+th {
+  border-bottom: #f0f0f0;
+  padding: 10px;
+}
+td {
+  border-bottom:1px solid #f0f0f0;
+  padding: 1px;
+}
